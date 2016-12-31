@@ -2,8 +2,8 @@
 //  Random.swift
 //  Flappy Frog
 //
-//  Created by Quincy on 12/11/16.
-//  Copyright © 2016 RuiZou. All rights reserved.
+//  Created by Mnady Zhao on 12/11/16.
+//  Copyright © 2016 MnadyZhao. All rights reserved.
 //
 
 import Foundation

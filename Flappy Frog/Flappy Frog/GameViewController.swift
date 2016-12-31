@@ -2,8 +2,8 @@
 //  GameViewController.swift
 //  Flappy Frog
 //
-//  Created by Rui Zou on 12/1/16.
-//  Copyright © 2016 RuiZou. All rights reserved.
+//  Created by Mnady Zhao on 12/1/16.
+//  Copyright © 2016 MnadyZhao. All rights reserved.
 //
 
 import UIKit
